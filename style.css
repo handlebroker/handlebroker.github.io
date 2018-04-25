@@ -400,7 +400,7 @@ body {
 
 #domains {
   padding-top: 5rem;
-  padding-bottom: 10rem; }
+  /*padding-bottom: 10rem;*/ }
   @media (max-width: 800px) {
     #domains {
       padding-top: 2.5rem;
